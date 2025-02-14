@@ -1,0 +1,87 @@
+# Model
+device: 0
+
+name: /scratch2/nlp/plm/Qwen-VL
+model_name: qwen-vl
+model_class: qwen-vl
+small_name: /scratch2/nlp/plm/Qwen-7B
+tokenizer_class: QWenTokenizer
+tokenizer_name: /scratch2/nlp/plm/Qwen-VL
+cls_name: /scratch2/nlp/plm/distilbert-base-uncased
+cls_class: AutoModel 
+inner_params:
+- transformer.h.29.mlp.w1.weight
+- transformer.h.29.mlp.w2.weight
+- transformer.h.29.mlp.c_proj.weight
+- transformer.h.30.mlp.w1.weight
+- transformer.h.30.mlp.w2.weight
+- transformer.h.30.mlp.c_proj.weight
+- transformer.h.31.mlp.w1.weight
+- transformer.h.31.mlp.w2.weight
+- transformer.h.31.mlp.c_proj.weight
+
+
+# Method
+alg: SERAC_MULTI
+lr: 1e-5
+edit_lr: 1e-2
+seed: 0
+lr_lr: 0.0
+cedit: 0.1
+iedit: 0.1
+cloc: 1.0
+cbase: 1.0
+dropout: 0.0
+final_eval: True
+supervised: False
+train_base: False
+no_grad_layers: null
+soft_weighting: False
+checkpoint_grad: False
+cross_attend: False
+cos: False
+freeze: null
+square: True
+bound_embeds: False
+use_all_negatives: False
+freeze_cntr: False
+dist_heads: 1
+lora: null
+archive: /scratch2/mas/jiangkailin/jkl/MMKE/VLKEB_F/results-new/entity/models/SERAC_MULTI/qwen-vl_240920_002302-step_9000.pt
+
+batch_size: 1
+model_save_pt: 5000
+edit_bs: 1
+silent: False
+#max_epochs: 1
+max_iters: 50000
+log_interval: 200
+val_interval: 5000
+early_stop_patience: 5000
+early_stop_key: "loss/total_edit_val"
+eval_only: True
+half: False
+save: False
+debug: False
+log_errors: False
+unlikelihood: True
+
+
+val_batch_size: 1
+accumulate_bs: 1
+val_steps: 1000
+opt: Adam
+grad_clip: 100.
+
+# Output
+
+# Multimodal
+qformer_checkpoint: null
+qformer_name_or_path: null
+state_dict_file: null
+# pretrained_ckpt: null
+
+results_dir: ./results-new/entity
+
+coco_image: data_image
+rephrase_image: data_image

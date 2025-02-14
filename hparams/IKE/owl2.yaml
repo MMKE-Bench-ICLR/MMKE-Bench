@@ -1,0 +1,21 @@
+alg_name: IKE
+name: /scratch2/mas/jiangkailin/MMKE/mplug-owl2-llama2-7b
+model_name: owl-2
+model_class: owl-2
+tokenizer_class: LlamaTokenizer
+tokenizer_name: /scratch2/mas/jiangkailin/MMKE/mplug-owl2-llama2-7b
+sentence_model_name: /scratch2/mas/jiangkailin/jkl/all-MiniLM-L6-v2
+device: 0
+results_dir: ./results-new/entity
+
+k: 25
+
+# Multimodal
+task_name: "VQA"
+qformer_checkpoint: null
+qformer_name_or_path: null
+state_dict_file: null
+
+# image
+coco_image: data_image
+rephrase_image: data_image
