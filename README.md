@@ -280,18 +280,18 @@ If you find our paper and code useful in your research, please consider giving a
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mmke-bench-bigai/mmke-bench&type=Date)](https://star-history.com/#mmke-bench-bigai/mmke-bench&Date)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=MMKE-Bench-ICLR/MMKE-Bench&type=Date)](https://star-history.com/#MMKE-Bench-ICLR/MMKE-Bench&Date)
 
 
 
 
 ## 🎉Contributors
 
-<a href="https://github.com/mmke-bench-bigai/mmke-bench/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mmke-bench-bigai/mmke-bench" />
-</a>
 
+<a href="https://github.com/MMKE-Bench-ICLR/MMKE-Bench/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MMKE-Bench-ICLR/MMKE-Bench" />
+</a>
 
 
 
