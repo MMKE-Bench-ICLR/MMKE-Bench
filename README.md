@@ -6,8 +6,8 @@
 
 
 
-[![arXiv PDF](https://img.shields.io/badge/Arxiv-406.11194-ff5733?logo=arXiv)]()  [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-MMKE--Bench--Dataset-lightgrey)](https://huggingface.co/datasets/kailinjiang/MMKE-Bench-dataset)  [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-MMKE--Bench--Model-3357ff)](https://huggingface.co/kailinjiang/MMKE-Bench)  [![Slides PDF](https://img.shields.io/badge/Slides-PDF-ff1493?logo=slideshare)](MMKE-Bench.pdf)
 
+[![arXiv](https://img.shields.io/badge/Arxiv-2502.19870-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2502.19870)  [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-MMKE_Bench-blue)](https://huggingface.co/datasets/kailinjiang/MMKE-Bench-dataset)  [![paperwithcode](https://img.shields.io/badge/PWC-MMKE_Bench-blue?logo=paperswithcode)](https://paperswithcode.com/paper/mmke-bench-a-multimodal-editing-benchmark-for) [![code](https://img.shields.io/badge/Code-MMKE_Bench-blue?logo=github)](https://github.com/MMKE-Bench-ICLR/MMKE-Bench) [![website](https://img.shields.io/badge/Website-MMKE_Bench-orange?logo=homepage)](https://mmke-bench-iclr.github.io/) [![Slides PDF](https://img.shields.io/badge/Slides-PDF-ff1493?logo=slideshare)](MMKE-Bench.pdf) [![airchina](https://img.shields.io/badge/数源AI-MMKE_Bench-red?logo=airchina)](https://mp.weixin.qq.com/s/iN826lITi5Xyz-3GnrdVIQ)
 
 
 ## Table of Contents
