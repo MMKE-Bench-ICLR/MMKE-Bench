@@ -1,13 +1,4 @@
-<a name="readme-top"></a>
-<p align="center">
-    <img src="figs/11.png" width="900" style="margin-bottom: 0.2;"/>
-<p>
-<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub.  </h2>
 
-
-
-
-[![arXiv](https://img.shields.io/badge/Arxiv-2502.19870-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2502.19870)  [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-MMKE_Bench-blue)](https://huggingface.co/datasets/kailinjiang/MMKE-Bench-dataset)  [![paperwithcode](https://img.shields.io/badge/PWC-MMKE_Bench-blue?logo=paperswithcode)](https://paperswithcode.com/paper/mmke-bench-a-multimodal-editing-benchmark-for) [![code](https://img.shields.io/badge/Code-MMKE_Bench-blue?logo=github)](https://github.com/MMKE-Bench-ICLR/MMKE-Bench) [![website](https://img.shields.io/badge/Website-MMKE_Bench-orange?logo=homepage)](https://mmke-bench-iclr.github.io/) [![Slides PDF](https://img.shields.io/badge/Slides-PDF-ff1493?logo=slideshare)](MMKE-Bench.pdf) [![airchina](https://img.shields.io/badge/数源AI-MMKE_Bench-red?logo=airchina)](https://mp.weixin.qq.com/s/iN826lITi5Xyz-3GnrdVIQ) [![codeproject](https://img.shields.io/badge/量子之心-MMKE_Bench-red?logo=codeproject)](https://www.xiaohongshu.com/explore/67e2d622000000000603cbfc?note_flow_source=wechat&xsec_token=CBldN8wUavDAzFvP4tK_noXO94RAXcelKKqlO3pFiJ6EQ=) [![actix](https://img.shields.io/badge/极市平台-MMKE_Bench-red?logo=actix)](https://mp.weixin.qq.com/s/JfxeytzWU0QoIUfJTGqgQQ) [![zhihu](https://img.shields.io/badge/知乎-MMKE_Bench-red?logo=zhihu)](https://zhuanlan.zhihu.com/p/30599722521)
 
 <h1 align="center"> <a href="https://arxiv.org/pdf/2502.19870">【ICLR 2025 🔥】MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge</a></h1>
 <h5 align="center">
